@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">YahtzeeGame</string>
+    <string name="welcome_message">Welcome to Yahtzee!</string>
+    <string name="load_game">Load Game</string>
+    <string name="new_game">New Game</string>
+    <string name="file_name">File Name</string>
+    <string name="start_game">Start Game</string>
+    <string name="enter_file_name">Please enter the name of the file.</string>">
+    <string name="launching_game">Launching game</string>
+    <!--  Scorecard Strings -->
+    <string name="scorecard">Scorecard</string>
+    <string name="category">Category</string>
+    <string name="round">Round</string>
+    <string name="winner">Winner</string>
+    <string name="points">Points</string>
+    <string name="ones">Ones</string>
+    <string name="twos">Twos</string>
+    <string name="threes">Threes</string>
+    <string name="fours">Fours</string>
+    <string name="fives">Fives</string>
+    <string name="sixes">Sixes</string>
+    <string name="three_of_a_kind">Three of a Kind</string>
+    <string name="four_of_a_kind">Four of a Kind</string>
+    <string name="full_house">Full House</string>
+    <string name="four_straight">Four Straight</string>
+    <string name="five_straight">Five Straight</string>
+    <string name="yahtzee">Yahtzee</string>
+    <string name="dash">-</string>
+</resources>

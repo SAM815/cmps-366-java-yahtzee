@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/buttonUp"
+                android:layout_width="50dp"
+                android:layout_height="48dp"
+                android:backgroundTint="#800080"
+                android:text="^" />
+
+            <ImageView
+                android:id="@+id/diceImage"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/die_1" />
+
+            <Button
+                android:id="@+id/buttonDown"
+                android:layout_width="50dp"
+                android:layout_height="48dp"
+                android:backgroundTint="#800080"
+                android:text="v" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonSetFinal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="#008000"
+            android:text="Set Dice Final" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
