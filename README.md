@@ -67,72 +67,98 @@ The game can be saved and resumed:
 The interface displays scores and game progress in a clear, intuitive manner.
 
 ### Images from the Android App
+### Images from the Android App
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+<style>
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .grid-item {
+    text-align: center;
+  }
+  .grid-item img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
 
-<div style="flex: 1; min-width: 300px;">
-  <h4>Main menu</h4>
-  <img src="images/Picture1.png" alt="Main Menu" width="100%">
+<div class="grid-container">
+
+<div class="grid-item">
+  <h4>Main Menu</h4>
+  <img src="images/Picture1.png" alt="Main Menu">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div class="grid-item">
   <h4>First player determine</h4>
-  <img src="images/Picture2.png" alt="First player determine" width="100%">
+  <img src="images/Picture2.png" alt="First player determine">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div class="grid-item">
   <h4>Winner of the first dice roll</h4>
-  <img src="images/Picture3.png" alt="Winner of the first dice roll" width="100%">
+  <img src="images/Picture3.png" alt="Winner of the first dice roll">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div class="grid-item">
   <h4>Main game screen layout</h4>
-  <img src="images/Picture4.png" alt="Main game screen layout" width="100%">
+  <img src="images/Picture4.png" alt="Main game screen layout">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div class="grid-item">
   <h4>Human asking for help (above help button)</h4>
-  <img src="images/Picture5.png" alt="Human asking for help (above help button)" width="100%">
+  <img src="images/Picture5.png" alt="Human asking for help">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
-  <h4>Computer scoring Full House in Round 7</h4>
-  <img src="images/Picture6.png" alt="Computer scoring Full House in Round 7" width="100%">
+<div class="grid-item">
+  <h4>Computer scoring Full house In Round 7</h4>
+  <img src="images/Picture6.png" alt="Computer scoring Full house In Round 7">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
-  <h4>Computer Keeping [2,2] and displaying potential categories</h4>
-  <img src="images/Picture7.png" alt="Computer Keeping [2,2]" width="100%">
+<div class="grid-item">
+  <h4>Computer Keeping [2,2] and potential categories</h4>
+  <img src="images/Picture7.png" alt="Computer Keeping [2,2]">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div class="grid-item">
   <h4>Computer scoring 3 of a kind</h4>
-  <img src="images/Picture8.png" alt="Computer scoring 3 of a kind" width="100%">
+  <img src="images/Picture8.png" alt="Computer scoring 3 of a kind">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div class="grid-item">
   <h4>Log of computer scoring 3 of a kind</h4>
-  <img src="images/Picture9.png" alt="Log of computer scoring 3 of a kind" width="100%">
+  <img src="images/Picture9.png" alt="Log of computer scoring 3 of a kind">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div class="grid-item">
   <h4>Display Winner in GUI</h4>
-  <img src="images/Picture10.png" alt="Display Winner in GUI" width="100%">
+  <img src="images/Picture10.png" alt="Display Winner in GUI">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div class="grid-item">
   <h4>Display Winner in Logs</h4>
-  <img src="images/Picture11.png" alt="Display Winner in Logs" width="100%">
+  <img src="images/Picture11.png" alt="Display Winner in Logs">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div class="grid-item">
   <h4>Saving a game and loading a saved game</h4>
-  <img src="images/Picture12.png" alt="Saving and loading a game" width="100%">
+  <img src="images/Picture12.png" alt="Saving a game and loading a saved game">
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div class="grid-item">
+  <h4>Loading the saved game (1)</h4>
+  <img src="images/Picture13.png" alt="Loading the saved game (1)">
+</div>
+
+<div class="grid-item">
+  <h4>Loading the saved game (2)</h4>
+  <img src="images/Picture14.png" alt="Loading the saved game (2)">
+</div>
+
+<div class="grid-item">
   <h4>Loading the saved game</h4>
-  <img src="images/Picture15.png" alt="Loading the saved game" width="100%">
+  <img src="images/Picture15.png" alt="Loading the saved game">
 </div>
 
 </div>
