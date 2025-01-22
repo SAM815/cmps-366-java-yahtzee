@@ -67,7 +67,7 @@ The game can be saved and resumed:
 The interface displays scores and game progress in a clear, intuitive manner.
 
 ### Images from the Android App
-
+#### main menu
 ![Main Menu](images/Picture1.png)
 ![First player determine ](images/Picture2.png)
 ![Winner of the first dice roll](images/Picture3.png)
