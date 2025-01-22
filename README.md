@@ -69,20 +69,7 @@ The interface displays scores and game progress in a clear, intuitive manner.
 ### Images from the Android App
 ### Images from the Android App
 
-<style>
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-  }
-  .grid-item {
-    text-align: center;
-  }
-  .grid-item img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
+
 
 <div class="grid-container">
 
