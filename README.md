@@ -68,45 +68,72 @@ The interface displays scores and game progress in a clear, intuitive manner.
 
 ### Images from the Android App
 
-#### Main menu
-![Main Menu](images/Picture1.png)
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
 
-#### First player determine
-![First player determine ](images/Picture2.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Main menu</h4>
+  <img src="images/Picture1.png" alt="Main Menu" width="100%">
+</div>
 
-#### Winner of the first dice roll
-![Winner of the first dice roll](images/Picture3.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>First player determine</h4>
+  <img src="images/Picture2.png" alt="First player determine" width="100%">
+</div>
 
-#### Main game screen layout
-![Main game screen layout](images/Picture4.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Winner of the first dice roll</h4>
+  <img src="images/Picture3.png" alt="Winner of the first dice roll" width="100%">
+</div>
 
-#### Human asking for help(above help button
-![Human asking for help(above help button)](images/Picture5.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Main game screen layout</h4>
+  <img src="images/Picture4.png" alt="Main game screen layout" width="100%">
+</div>
 
-#### Computer scoring Full house In Round 7 and displaying scores
-![Computer scoring Full house In Round 7 and displaying scores](images/Picture6.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Human asking for help (above help button)</h4>
+  <img src="images/Picture5.png" alt="Human asking for help (above help button)" width="100%">
+</div>
 
-#### Computer Keeping [2,2] and program displaying potential categories
-![Computer Keeping [2,2] and program displaying potential categories](images/Picture7.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Computer scoring Full House in Round 7</h4>
+  <img src="images/Picture6.png" alt="Computer scoring Full House in Round 7" width="100%">
+</div>
 
-#### Computer scoring 3 of a kind
-![Computer scoring 3 of a kind](images/Picture8.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Computer Keeping [2,2] and displaying potential categories</h4>
+  <img src="images/Picture7.png" alt="Computer Keeping [2,2]" width="100%">
+</div>
 
-#### Program displaying log of computer Scoring 3 of a kind  
-![Program displaying log of computer Scoring 3 of a kind   ](images/Picture9.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Computer scoring 3 of a kind</h4>
+  <img src="images/Picture8.png" alt="Computer scoring 3 of a kind" width="100%">
+</div>
 
-#### Display Winner in GUI
-![Display Winner in GUI](images/Picture10.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Log of computer scoring 3 of a kind</h4>
+  <img src="images/Picture9.png" alt="Log of computer scoring 3 of a kind" width="100%">
+</div>
 
-#### Display Winner in Logs
-![Display Winner in Logs](images/Picture11.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Display Winner in GUI</h4>
+  <img src="images/Picture10.png" alt="Display Winner in GUI" width="100%">
+</div>
 
-#### Saving a game and loading a saved game
-![Saving a game and loading a saved game](images/Picture12.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Display Winner in Logs</h4>
+  <img src="images/Picture11.png" alt="Display Winner in Logs" width="100%">
+</div>
 
-![Alt text](images/Picture13.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Saving a game and loading a saved game</h4>
+  <img src="images/Picture12.png" alt="Saving and loading a game" width="100%">
+</div>
 
-![Alt text](images/Picture14.png)
+<div style="flex: 1; min-width: 300px;">
+  <h4>Loading the saved game</h4>
+  <img src="images/Picture15.png" alt="Loading the saved game" width="100%">
+</div>
 
-#### Loading the saved game
-![Loading the saved game](images/Picture15.png)
+</div>
+
