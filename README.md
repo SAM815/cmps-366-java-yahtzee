@@ -66,3 +66,20 @@ The game can be saved and resumed:
 ### Beautiful Interface
 The interface displays scores and game progress in a clear, intuitive manner.
 
+### Images from the Android App
+
+![Main Menu](images/Picture1.png)
+![First player determine ](images/Picture2.png)
+![Winner of the first dice roll](images/Picture3.png)
+![Main game screen layout](images/Picture4.png)
+![Human asking for help(above help button)](images/Picture5.png)
+![Computer scoring Full house In Round 7 and displaying scores](images/Picture6.png)
+![Computer Keeping [2,2] and program displaying potential categories](images/Picture7.png)
+![Computer scoring 3 of a kind](images/Picture8.png)
+![Program displaying log of computer Scoring 3 of a kind   ](images/Picture9.png)
+![Display Winner in GUI](images/Picture10.png)
+![Display Winner in Logs](images/Picture11.png)
+![Saving a game and loading a saved game](images/Picture12.png)
+![Alt text](images/Picture13.png)
+![Alt text](images/Picture14.png)
+![Loading the saved game](images/Picture15.png)
